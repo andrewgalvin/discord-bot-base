@@ -1,7 +1,7 @@
 import logging
 import unittest
 
-from utils.logger import setup_logger
+from bot.utils.logger import setup_logger
 
 
 class TestSetupLogger(unittest.TestCase):

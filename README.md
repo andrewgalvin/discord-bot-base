@@ -51,12 +51,13 @@
 To start the bot, run:
 
 ```sh
+cd bot
 python bot.py
 ```
 
 ## Running Tests
 
-To run the tests, use:
+To run the tests, in the [root directory](.) run:
 
 ```sh
 python -m unittest discover -s tests -p "test_*.py"

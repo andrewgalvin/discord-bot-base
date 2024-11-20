@@ -2,7 +2,7 @@ import asyncio
 import unittest
 from unittest.mock import AsyncMock, MagicMock
 
-from commands.hello_world_command import HelloWorldCommand
+from bot.commands.hello_world_command import HelloWorldCommand
 
 
 class TestHelloWorldCommand(unittest.TestCase):

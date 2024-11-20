@@ -1,2 +1,0 @@
-# config.py
-DISCORD_TOKEN = "YOUR_DISCORD_BOT_TOKEN"
