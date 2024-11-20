@@ -39,7 +39,7 @@
 
 ## Configuration
 
-1. Open the `config.py` file.
+1. Open the [config.py](./bot/config/config.py) file.
 
 2. Add your Discord bot token to the `config.py` file:
    ```python
