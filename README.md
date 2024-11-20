@@ -48,10 +48,9 @@
 
 ## Usage
 
-To start the bot, run:
+To start the bot, navigate to the [bot directory](./bot/) and run:
 
 ```sh
-cd bot
 python bot.py
 ```
 
