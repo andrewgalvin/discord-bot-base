@@ -1,6 +1,6 @@
 import interactions
 from commands import hello_world_command
-from config import DISCORD_TOKEN
+from config.config import DISCORD_TOKEN
 from utils.logger import logger
 
 intent = interactions.Intents.ALL

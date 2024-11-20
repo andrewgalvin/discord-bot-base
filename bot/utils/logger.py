@@ -1,6 +1,6 @@
 import logging
 
-from bot.config import DISCORD_BOT_NAME
+from config.config import DISCORD_BOT_NAME
 
 
 def setup_logger(name, level=logging.INFO):
