@@ -44,6 +44,7 @@
 2. Add your Discord bot token to the `config.py` file:
    ```python
    DISCORD_TOKEN = 'your-discord-bot-token'
+   DISCORD_BOT_NAME = "your-discord-bot-name"
    ```
 
 ## Usage

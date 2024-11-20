@@ -1,5 +1,7 @@
 import logging
 
+from bot.config import DISCORD_BOT_NAME
+
 
 def setup_logger(name, level=logging.INFO):
     """
@@ -25,4 +27,4 @@ def setup_logger(name, level=logging.INFO):
 
 
 # Update name of logger based on your project
-logger = setup_logger("discord_bot", logging.DEBUG)
+logger = setup_logger(DISCORD_BOT_NAME, logging.DEBUG)
